@@ -1,0 +1,24 @@
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\Nature Calculator.exe.config
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\Nature Calculator.exe
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\Nature Calculator.pdb
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\CsvHelper.dll
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\System.Buffers.dll
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\System.Memory.dll
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\CsvHelper.xml
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\System.Buffers.xml
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\System.Memory.xml
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\obj\Debug\Nature Calculator.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\obj\Debug\Nature Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\obj\Debug\Nature Calculator.csproj.CopyComplete
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\obj\Debug\Nature Calculator.exe
+C:\Users\Brandon\source\repos\Nature Calculator\Nature Calculator\obj\Debug\Nature Calculator.pdb
